@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://larry.wapnitsky.com/sitemap.xml
